@@ -10,7 +10,7 @@ function App() {
         <p>
           Don't Edit <code>src/App.js</code> and don't save to reload.
         </p>
-        <p>Kiran is a genius</p>
+        <p>Kiran is the next Jimi Hendrix</p>
         <a
           className="App-link"
           href="https://reactjs.org"
